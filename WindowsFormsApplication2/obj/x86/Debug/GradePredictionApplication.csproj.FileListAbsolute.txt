@@ -10,3 +10,5 @@ C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\Win
 C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.pdb
 C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Properties.Resources.resources
 C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csproj.GenerateResource.Cache
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csprojResolveAssemblyReference.cache
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Views.StartPage.resources

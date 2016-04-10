@@ -15,20 +15,16 @@ namespace GradePredictionApplication
         [STAThread]
         static void Main()
         {
-
             EntryPointController bla = new EntryPointController();
-
             bla.DatabaseManager();
-            bla.EntryPointView();
-
 
             StartPage StartPageForm = new StartPage();
+            StartPageForm.setControllerForNextFrame(bla);
 
-            //Application.SetCompatibleTextRenderingDefault(false);
             Application.EnableVisualStyles();
             Application.Run(StartPageForm);
 
-           
+            //bla.EntryPointView();
 
         }
     }

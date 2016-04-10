@@ -8,7 +8,7 @@ using System.Windows.Forms;
 
 namespace GradePredictionApplication.Controllers
 {
-    class EntryPointController
+    public class EntryPointController
     {
         public EntryPointController()
         {
@@ -20,15 +20,17 @@ namespace GradePredictionApplication.Controllers
             Console.WriteLine(" <<<< New Entry Point View.");
 
             EntryPoint EntryPointForm = new EntryPoint();
-            Application.EnableVisualStyles();
-            Application.Run(EntryPointForm);
+            EntryPointForm.Show();
+            //EntryPointForm.Hide();
+
 
         }
 
         public void DatabaseManager()
         {
             DatabaseManager DB = new DatabaseManager();
-
         }
+
+
     }
 }
