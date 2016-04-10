@@ -1,0 +1,12 @@
+c:\users\eddie\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.exe
+c:\users\eddie\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.pdb
+c:\users\eddie\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Properties.Resources.resources
+c:\users\eddie\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csproj.GenerateResource.Cache
+c:\users\eddie\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.exe
+c:\users\eddie\documents\visual studio 2010\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.pdb
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.exe
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.pdb
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.exe
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.pdb
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Properties.Resources.resources
+C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csproj.GenerateResource.Cache
