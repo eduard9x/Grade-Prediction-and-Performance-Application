@@ -12,3 +12,25 @@ C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\Win
 C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csproj.GenerateResource.Cache
 C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csprojResolveAssemblyReference.cache
 C:\Users\Eddie\Documents\GitHub\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Views.StartPage.resources
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.exe
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.pdb
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.exe
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.pdb
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csprojResolveAssemblyReference.cache
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Properties.Resources.resources
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Views.StartPage.resources
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csproj.GenerateResource.Cache
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\bin\Debug\Models\StudentsDatabase.mdf
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\bin\Debug\Models\StudentsDatabase_log.ldf
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application-master\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.exe.config
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.exe.config
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.exe
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.pdb
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\Models\StudentsDatabase.mdf
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\Models\StudentsDatabase_log.ldf
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.exe
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\bin\Debug\GradePredictionApplication.pdb
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csprojResolveAssemblyReference.cache
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Properties.Resources.resources
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.Views.StartPage.resources
+E:\Programe\Visual Studio 2013\PROJECT\Grade-Prediction-and-Performance-Application\WindowsFormsApplication2\obj\x86\Debug\GradePredictionApplication.csproj.GenerateResource.Cache
